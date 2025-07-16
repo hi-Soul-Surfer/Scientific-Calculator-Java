@@ -26,7 +26,8 @@ java -cp src calcPac.CalcGUI
 
 ## 📷 Screenshot
 
-![screenshot.png](../screenshot.png)
+![Scientific Calculator Screenshot](screenshot.png)
+
 
 ---
 
